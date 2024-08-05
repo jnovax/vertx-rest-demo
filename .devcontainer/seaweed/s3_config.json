@@ -1,0 +1,20 @@
+{
+    "identities": [
+      {
+        "name": "demo",
+        "credentials": [
+          {
+            "accessKey": "hW7T01CxUYOfxQR973VoYdqSOHEhrjkK",
+            "secretKey": "igbPaXAQcm7n7VuXGkX1nyITyTpnATgt"
+          }
+        ],
+        "actions": [
+          "Read:demo",
+          "Write:demo",
+          "List:demo",
+          "Tagging:demo",
+          "Admin:demo"
+        ]
+      }
+    ]
+  }
